@@ -1,14 +1,29 @@
 {
   "name": "opengrade",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "private": true,
   "type": "module",
   "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
     "decisions": "node .claude/skills/adr/scripts/decisions-index.mjs pipeline/decisions"
   },
   "devDependencies": {
     "@fission-ai/openspec": "^1.13.2",
     "@infisical/cli": "^0.43.137",
-    "oxlint": "^1.85.0"
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "^26.6.4",
+    "@types/react": "^19.3.0",
+    "oxlint": "^1.85.0",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^6.0.3"
+  },
+  "dependencies": {
+    "next": "^15.5.27",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "zod": "^4.6.5"
   }
 }
