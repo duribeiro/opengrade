@@ -1,6 +1,6 @@
-# NOME-DO-PROJETO
+# opengrade
 
-Descreva em uma frase o que este projeto é e para quem. Preencha na primeira sessão, junto com `pipeline/01-problem-and-vision`.
+Correcao de provas com IA a partir de foto do celular, em codigo aberto
 
 **Estado de hoje:** projeto recém-criado a partir do modelo `project-template`. Nada decidido ainda. A próxima ação está em `pipeline/STATE.md`.
 

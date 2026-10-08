@@ -1,7 +1,7 @@
 schema: spec-driven
 
 context: |
-  NOME-DO-PROJETO: descreva em uma frase o que o projeto e, para quem, e o dominio.
+  opengrade: Correcao de provas com IA a partir de foto do celular, em codigo aberto
   Pilha decidida: (preencha quando a etapa 6 da esteira decidir; ate la, vazio).
   Cofre de segredos: (preencha quando decidido).
   Ambientes: dev e producao. Caminho do codigo: GitHub flow (branch curta a partir da main, pedido de juncao para a main).

@@ -4,7 +4,7 @@ Formato [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/). Versionamen
 
 ## [Não lançado]
 
-## [0.0.1] - YYYY-MM-DD
+## [0.0.1] - 2026-10-07
 
 ### Adicionado
 
