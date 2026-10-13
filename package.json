@@ -12,9 +12,9 @@
   },
   "devDependencies": {
     "@fission-ai/openspec": "^1.13.2",
-    "@infisical/cli": "^0.43.137",
+    "@infisical/cli": "^0.43.141",
     "@tailwindcss/postcss": "^4.3.3",
-    "@types/node": "^26.6.4",
+    "@types/node": "^26.6.5",
     "@types/react": "^19.3.0",
     "oxlint": "^1.85.0",
     "tailwindcss": "^4.3.3",
