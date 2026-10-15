@@ -46,3 +46,7 @@ O OpenGrade fala com qualquer provedor no formato da API da OpenAI. Preencha tr�
 | OpenAI | `https://api.openai.com/v1` | um modelo com visão |
 
 `LLM_API_KEY` recebe a chave do provedor. O modelo precisa aceitar imagem e chamada de ferramenta. `LLM_REASONING_EFFORT=none` deixa a correção mais rápida; deixe vazio se o provedor não aceitar o campo.
+
+## Presentation
+
+Pitch deck from Semana da Tecnologia UNASP 2026: [online](https://ribeiroedu.com/semana-tech/og/) · [PDF](presentation/slides.pdf) · [source](presentation/index.html)
