@@ -18,10 +18,10 @@
     "@types/react": "^19.3.0",
     "oxlint": "^1.85.0",
     "tailwindcss": "^4.3.3",
-    "typescript": "^6.0.3"
+    "typescript": "^7.0.2"
   },
   "dependencies": {
-    "next": "^15.5.27",
+    "next": "^16.4.2",
     "react": "^19.3.0",
     "react-dom": "^19.3.0",
     "zod": "^4.6.5"
